@@ -1,13 +1,16 @@
-/////////////////////////////////////////////////////////////////////////
 
-// --------------------------- //
+SIMPLE DISCORD RESPONSE BOT
+------------------------------------------
 
-// SIMPLE DISCORD RESPONSE BOT //
+TO DO LIST:
 
-// --------------------------- //
+- SEARCHES YOUTUBE FOR MUSIC PLAYBACK
 
-// TO DO LIST:
+CURRENT FEATURES:
+-------------------
 
-// - SEARCHES YOUTUBE FOR MUSIC PLAYBACK
-
-/////////////////////////////////////////////////////////////////////////
+- CAN INSULT YOU
+- 
+- CAN ENCOURAGE YOU
+- 
+- USER IS ABLE TO ADD/REMOVE ENCOURAGEMENTS
